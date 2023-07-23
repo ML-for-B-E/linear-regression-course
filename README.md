@@ -1,4 +1,4 @@
-# linear-regression-course
+# EEIA Linear regression course
 
 ![use](https://img.shields.io/badge/use-Summer%20Camp-green) ![readiness](https://img.shields.io/badge/readiness-initialization-red)
 
